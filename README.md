@@ -5,7 +5,7 @@
 🌟 Always curious about new technologies and innovations
 💡 Deep love for problem-solving
 
-### Skills
+### Technical Skills
 
 - Web Development (HTML, CSS, JavaScript, React.js, Node.js)
 - Mobile Development (Flutter Framework, Firebase Platform)
