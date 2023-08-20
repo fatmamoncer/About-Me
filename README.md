@@ -22,9 +22,8 @@
 - Teamwork
 - Leadership
 - Effective Communication
-- Motivated
-- Enthusiastic
-
+- Motivation
+  
 ### Contributions and Associative Life
 
 - Human Resources Manager at IEEE ISSATSO Student Branch
