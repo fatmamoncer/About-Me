@@ -9,7 +9,6 @@
 
 - Web Development (HTML, CSS, JavaScript, React.js, Node.js)
 - Mobile Development (Flutter Framework, Firebase Platform)
-- Backend Development (WordPress, GraphQL)
 - DevOps (Docker)
 - Programming Languages (C, C++, Java, Python)
 - Object-Oriented Programming
