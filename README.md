@@ -26,6 +26,7 @@
 ### Contributions and Associative Life
 
 - Human Resources Manager at IEEE ISSATSO Student Branch
+- Chairwomen of the IEEE CS ISSATSo SBC
 - General Secretary at IEEE Women in Engineering Affinity Group ISSATSO SB
 - Business Development Community Member at Cyber Trace Club ISSATSO
 - Member at Google Club ISSATSO
