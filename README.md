@@ -8,6 +8,7 @@
 ### Technical Skills
 
 - Web Development (HTML, CSS, JavaScript, React.js, Node.js)
+- Backend development (springboot Framework)
 - Mobile Development (Flutter Framework, Firebase Platform)
 - DevOps (Docker)
 - Programming Languages (C, C++, Java, Python)
